@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['arvore', 'detrito', 'ravina']
+
+roboflow:
+  workspace: lnncrsufabc91b9b4e9
+  project: obstacle-detection-suapz
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/lnncrsufabc91b9b4e9/obstacle-detection-suapz/dataset/1
