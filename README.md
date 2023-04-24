@@ -24,10 +24,6 @@ O desenvolvimento de técnicas de aprendizado de máquina para mapeamento de ter
 
 ### [Artigo completo](./docs/Projeto%20de%20biomim%C3%A9tica%20-%20Final.pdf)
 
-Universidade Federal do ABC - Bacharelado em Ciência e Tecnologia
-Projeto Dirigido 2023/Q1
-
 ___
 
-CMCC - Universidade Federal do ABC (UFABC)
-Santo André - SP - Brasil
+CMCC - Universidade Federal do ABC (UFABC) - Santo André - SP - Brasil
